@@ -17,3 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umutcantufan&show_icons=true&locale=en" alt="umutcantufan" /></p>
 
+![snake gif](https://github.com/UmutcanTufan/UmutcanTufan/blob/output/github-contribution-grid-snake.gif)
